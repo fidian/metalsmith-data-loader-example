@@ -1,0 +1,11 @@
+{
+    "private": "true",
+    "dependencies": {
+        "metalsmith": "^2.3.0",
+        "metalsmith-each": "^0.1.1",
+        "metalsmith-data-loader": "^1.0.3"
+    },
+    "scripts": {
+        "build": "node metalsmith.js"
+    }
+}
